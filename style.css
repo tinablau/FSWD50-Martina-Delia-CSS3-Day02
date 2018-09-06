@@ -1,0 +1,54 @@
+.container {
+	width: 800px;
+	margin: auto;
+	box-shadow: 4px 3px 4px lightgray, -4px 3px 4px lightgray;
+	padding: 0 50px;
+	font-family: 'Lato', sans-serif;
+}
+p, li {
+	color: #707070;
+}
+header {
+
+	text-align: center;
+
+}
+.hero {
+ text-align: center;
+}
+h1 {
+	color: #DB0038;
+}
+h2{
+	color: #3998A3;
+}
+
+h3 {
+	color:  #474747;
+}
+
+.hero {
+	background-color: #f4f4f4;
+	padding: 0 0 10px 0;
+}
+
+li {
+	padding: 5px 0 5px 0;
+
+}
+ol{
+	text-align: justify;
+}
+
+.rating span {
+ color: #F4B400;
+ font-size: 25px;
+}
+
+.rating {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
